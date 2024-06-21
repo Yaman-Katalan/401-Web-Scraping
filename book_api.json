@@ -1,0 +1,377 @@
+[
+  {
+    "data": [
+      {
+        "title": "Scott Pilgrim's Precious Little ...",
+        "rating": "Five",
+        "price": "\u00a352.29",
+        "availability": "In stock"
+      },
+      {
+        "title": "Tsubasa: WoRLD CHRoNiCLE 2 ...",
+        "rating": "One",
+        "price": "\u00a316.28",
+        "availability": "In stock"
+      },
+      {
+        "title": "This One Summer",
+        "rating": "Four",
+        "price": "\u00a319.49",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Nameless City (The ...",
+        "rating": "Four",
+        "price": "\u00a338.16",
+        "availability": "In stock"
+      },
+      {
+        "title": "Saga, Volume 5 (Saga ...",
+        "rating": "Two",
+        "price": "\u00a351.04",
+        "availability": "In stock"
+      },
+      {
+        "title": "Rat Queens, Vol. 3: ...",
+        "rating": "Three",
+        "price": "\u00a350.40",
+        "availability": "In stock"
+      },
+      {
+        "title": "Princess Jellyfish 2-in-1 Omnibus, ...",
+        "rating": "Five",
+        "price": "\u00a313.61",
+        "availability": "In stock"
+      },
+      {
+        "title": "Pop Gun War, Volume ...",
+        "rating": "One",
+        "price": "\u00a318.97",
+        "availability": "In stock"
+      },
+      {
+        "title": "Patience",
+        "rating": "Three",
+        "price": "\u00a310.16",
+        "availability": "In stock"
+      },
+      {
+        "title": "Outcast, Vol. 1: A ...",
+        "rating": "Four",
+        "price": "\u00a315.44",
+        "availability": "In stock"
+      },
+      {
+        "title": "orange: The Complete Collection ...",
+        "rating": "One",
+        "price": "\u00a348.41",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes, Vol. 2: Friendship ...",
+        "rating": "Two",
+        "price": "\u00a346.91",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes, Vol. 1: Beware ...",
+        "rating": "Three",
+        "price": "\u00a345.61",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes Vol. 3: A ...",
+        "rating": "Two",
+        "price": "\u00a319.92",
+        "availability": "In stock"
+      },
+      {
+        "title": "I Hate Fairyland, Vol. ...",
+        "rating": "Two",
+        "price": "\u00a329.17",
+        "availability": "In stock"
+      },
+      {
+        "title": "I am a Hero ...",
+        "rating": "Three",
+        "price": "\u00a354.63",
+        "availability": "In stock"
+      },
+      {
+        "title": "Giant Days, Vol. 2 ...",
+        "rating": "Two",
+        "price": "\u00a322.11",
+        "availability": "In stock"
+      },
+      {
+        "title": "Danganronpa Volume 1",
+        "rating": "Four",
+        "price": "\u00a351.99",
+        "availability": "In stock"
+      },
+      {
+        "title": "Codename Baboushka, Volume 1: ...",
+        "rating": "Four",
+        "price": "\u00a336.72",
+        "availability": "In stock"
+      },
+      {
+        "title": "Camp Midnight",
+        "rating": "Four",
+        "price": "\u00a317.08",
+        "availability": "In stock"
+      }
+    ],
+    "type": "Sequential Art"
+  },
+  {
+    "data": [
+      {
+        "title": "Soumission",
+        "rating": "One",
+        "price": "\u00a350.10",
+        "availability": "In stock"
+      },
+      {
+        "title": "Private Paris (Private #10)",
+        "rating": "Five",
+        "price": "\u00a347.61",
+        "availability": "In stock"
+      },
+      {
+        "title": "We Love You, Charlie ...",
+        "rating": "Five",
+        "price": "\u00a350.27",
+        "availability": "In stock"
+      },
+      {
+        "title": "Thirst",
+        "rating": "Five",
+        "price": "\u00a317.27",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Murder That Never ...",
+        "rating": "Three",
+        "price": "\u00a354.11",
+        "availability": "In stock"
+      },
+      {
+        "title": "Tuesday Nights in 1980",
+        "rating": "Two",
+        "price": "\u00a321.04",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Vacationers",
+        "rating": "Four",
+        "price": "\u00a342.15",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Regional Office Is ...",
+        "rating": "Five",
+        "price": "\u00a351.36",
+        "availability": "In stock"
+      },
+      {
+        "title": "Finders Keepers (Bill Hodges ...",
+        "rating": "Five",
+        "price": "\u00a353.53",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Time Keeper",
+        "rating": "Five",
+        "price": "\u00a327.88",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Testament of Mary",
+        "rating": "Four",
+        "price": "\u00a352.67",
+        "availability": "In stock"
+      },
+      {
+        "title": "The First Hostage (J.B. ...",
+        "rating": "Three",
+        "price": "\u00a325.85",
+        "availability": "In stock"
+      },
+      {
+        "title": "Take Me with You",
+        "rating": "Three",
+        "price": "\u00a345.21",
+        "availability": "In stock"
+      },
+      {
+        "title": "Still Life with Bread ...",
+        "rating": "Three",
+        "price": "\u00a326.41",
+        "availability": "In stock"
+      },
+      {
+        "title": "Shtum",
+        "rating": "Four",
+        "price": "\u00a355.84",
+        "availability": "In stock"
+      },
+      {
+        "title": "My Name Is Lucy ...",
+        "rating": "One",
+        "price": "\u00a341.56",
+        "availability": "In stock"
+      },
+      {
+        "title": "My Mrs. Brown",
+        "rating": "Three",
+        "price": "\u00a324.48",
+        "availability": "In stock"
+      },
+      {
+        "title": "Mr. Mercedes (Bill Hodges ...",
+        "rating": "One",
+        "price": "\u00a328.90",
+        "availability": "In stock"
+      },
+      {
+        "title": "I Am Pilgrim (Pilgrim ...",
+        "rating": "Four",
+        "price": "\u00a310.60",
+        "availability": "In stock"
+      },
+      {
+        "title": "Eligible (The Austen Project ...",
+        "rating": "Three",
+        "price": "\u00a327.09",
+        "availability": "In stock"
+      }
+    ],
+    "type": "Fiction"
+  },
+  {
+    "data": [
+      {
+        "title": "Unicorn Tracks",
+        "rating": "Three",
+        "price": "\u00a318.78",
+        "availability": "In stock"
+      },
+      {
+        "title": "Saga, Volume 6 (Saga ...",
+        "rating": "Three",
+        "price": "\u00a325.02",
+        "availability": "In stock"
+      },
+      {
+        "title": "Princess Between Worlds (Wide-Awake ...",
+        "rating": "Five",
+        "price": "\u00a313.34",
+        "availability": "In stock"
+      },
+      {
+        "title": "Masks and Shadows",
+        "rating": "Two",
+        "price": "\u00a356.40",
+        "availability": "In stock"
+      },
+      {
+        "title": "Crown of Midnight (Throne ...",
+        "rating": "Three",
+        "price": "\u00a343.29",
+        "availability": "In stock"
+      },
+      {
+        "title": "Avatar: The Last Airbender: ...",
+        "rating": "Two",
+        "price": "\u00a328.09",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Court of Thorns ...",
+        "rating": "One",
+        "price": "\u00a352.37",
+        "availability": "In stock"
+      },
+      {
+        "title": "Throne of Glass (Throne ...",
+        "rating": "Three",
+        "price": "\u00a335.07",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Glittering Court (The ...",
+        "rating": "One",
+        "price": "\u00a344.28",
+        "availability": "In stock"
+      },
+      {
+        "title": "Hollow City (Miss Peregrine\u2019s ...",
+        "rating": "One",
+        "price": "\u00a342.98",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Star-Touched Queen",
+        "rating": "Five",
+        "price": "\u00a346.02",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Hidden Oracle (The ...",
+        "rating": "Two",
+        "price": "\u00a352.26",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Bane Chronicles (The ...",
+        "rating": "Four",
+        "price": "\u00a344.73",
+        "availability": "In stock"
+      },
+      {
+        "title": "Island of Dragons (Unwanteds ...",
+        "rating": "One",
+        "price": "\u00a329.65",
+        "availability": "In stock"
+      },
+      {
+        "title": "Demigods & Magicians: Percy ...",
+        "rating": "Five",
+        "price": "\u00a337.51",
+        "availability": "In stock"
+      },
+      {
+        "title": "City of Glass (The ...",
+        "rating": "Four",
+        "price": "\u00a356.02",
+        "availability": "In stock"
+      },
+      {
+        "title": "Searching for Meaning in ...",
+        "rating": "One",
+        "price": "\u00a338.73",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Star-Touched Queen",
+        "rating": "Five",
+        "price": "\u00a332.30",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Shard of Ice ...",
+        "rating": "Three",
+        "price": "\u00a356.63",
+        "availability": "In stock"
+      },
+      {
+        "title": "King's Folly (The Kinsman ...",
+        "rating": "Five",
+        "price": "\u00a339.61",
+        "availability": "In stock"
+      }
+    ],
+    "type": "Fantasy"
+  }
+]
